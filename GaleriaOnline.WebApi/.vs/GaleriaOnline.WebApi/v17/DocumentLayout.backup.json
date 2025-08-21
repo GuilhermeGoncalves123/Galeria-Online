@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\dto\\putimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\dto\\putimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\repositories\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\repositories\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\interfaces\\iimagensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\interfaces\\iimagensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\dto\\putimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\dto\\putimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|c:\\users\\54261396874\\desktop\\projeto galeria online\\galeriaonline.webapi\\galeriaonline.webapi\\dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72812F43-AFED-46E7-B827-B4EBB8639820}|GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi\\dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,46 +50,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PutImagem.cs",
-              "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DTO\\PutImagem.cs",
-              "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\DTO\\PutImagem.cs",
-              "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DTO\\PutImagem.cs",
-              "RelativeToolTip": "GaleriaOnline.WebApi\\DTO\\PutImagem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T19:01:50.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImagemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
-              "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
-              "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
-              "RelativeToolTip": "GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:47:46.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ImagemController.cs",
               "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
               "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
               "RelativeToolTip": "GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAswJAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAiwJkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T16:37:41.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\appsettings.json",
@@ -102,67 +76,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ImagemRepository.cs",
               "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
-              "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
-              "RelativeToolTip": "GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs*",
+              "RelativeToolTip": "GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T14:29:56.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "IImagensRepository.cs",
               "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Interfaces\\IImagensRepository.cs",
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\Interfaces\\IImagensRepository.cs",
               "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Interfaces\\IImagensRepository.cs",
               "RelativeToolTip": "GaleriaOnline.WebApi\\Interfaces\\IImagensRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T14:19:13.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Program.cs",
               "RelativeToolTip": "GaleriaOnline.WebApi\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T13:44:58.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Imagem.cs",
               "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Models\\Imagem.cs",
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\Models\\Imagem.cs",
               "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Models\\Imagem.cs",
               "RelativeToolTip": "GaleriaOnline.WebApi\\Models\\Imagem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T13:44:03.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "GaleriaOnlineDbContext.cs",
               "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
               "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
               "RelativeToolTip": "GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T12:52:36.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PutImagem.cs",
+              "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DTO\\PutImagem.cs",
+              "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\DTO\\PutImagem.cs",
+              "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DTO\\PutImagem.cs",
+              "RelativeToolTip": "GaleriaOnline.WebApi\\DTO\\PutImagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:01:50.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImagemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
+              "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
+              "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Galeria Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
+              "RelativeToolTip": "GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:47:46.427Z",
               "EditorCaption": ""
             }
           ]

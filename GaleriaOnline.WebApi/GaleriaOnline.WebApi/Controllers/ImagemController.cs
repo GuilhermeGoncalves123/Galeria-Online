@@ -133,19 +133,21 @@ namespace GaleriaOnline.WebApi.Controllers
 
         }
 
-        public Task<IActionResult> DeletarImagem(int id)
-        {
-            return DeletarImagem(id, Imagem);
-        }
+
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult>DeletarImagem(int id, Imagem imagem)
+        public async Task<IActionResult> DeletarImagem(int id)
         {
-            var caminhoFisico = Path.Combine(Directory.GetCurrentDirectory(),
-imagem.Caminho.Replace("/",
-     Path.DirectorySeparatorChar.ToString()
+            var imagem = await _repository.GetByIdAsync(id);
+            if (imagem == null)
+            {
+                return NotFound("Imagem não encontrada");
+            }
 
-     ));
+            var caminhoFisico = Path.Combine
+            (Directory.GetCurrentDirectory(),
+            imagem.Caminho.Replace("/", Path.DirectorySeparatorChar.ToString()));
+
             if (System.IO.File.Exists(caminhoFisico))
             {
                 try

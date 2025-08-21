@@ -21,15 +21,18 @@ namespace GaleriaOnline.WebApi.Repositories
             return imagem;
         }
 
-        public async Task<bool> DeleteAsync(int id)
+        public async Task<bool> DeleteAsync (int id)
         {
             var imagem = await _context.Imagens.FindAsync(id);
-            if (imagem != null)
+            if (imagem == null)
             {
                 return false;
             }
+            _context.Imagens.Remove(imagem);
+            return await _context.SaveChangesAsync() > 0;
         }
 
+        
         public async Task<IEnumerable<Imagem>> GetAllAsync()
         {
             return await _context.Imagens.ToListAsync();
