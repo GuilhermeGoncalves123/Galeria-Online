@@ -1,0 +1,18 @@
+.botao {
+background-color: #2f4157;
+border: none;
+color: white;
+width: 15%;
+height: 40px;
+
+border-radius: 6px;
+box-shadow: rgba(0, 0, 0, 0.15) 1.95 1.95 2.6;
+
+font-size: 16px;
+}
+
+@media screen and (max-widht: 75px) {
+   .botao{
+    font-size: 14px;
+   } 
+}
