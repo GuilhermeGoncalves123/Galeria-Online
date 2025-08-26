@@ -55,7 +55,12 @@
             align-items: center;
             flex-direction: column;
             gap: 20px;
-            width: 100%;
-        }
+           width: 100%; }
+    } 
+    .imgCard{
+        width: 200px;
+        height: 200px;
+
+        object-fit: contain;
     }
     
